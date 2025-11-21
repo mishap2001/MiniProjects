@@ -4,7 +4,7 @@
 # Memory & Disk Forensics Analyzer Script
 # Author: Michael Pritsert
 # GitHub: https://github.com/mishap2001
-# LinkedIn: www.linkedin.com/in/michael-pritsert-8168bb38a
+# LinkedIn: https://www.linkedin.com/in/michael-pritsert-8168bb38a
 # License: MIT License
 ###############################################################
 
