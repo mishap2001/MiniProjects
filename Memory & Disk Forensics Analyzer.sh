@@ -722,7 +722,6 @@ function REPORT_ZIP() # Generate a report for the analysis and ZIP the results
 	echo	
 	echo "[!] ZIP Archive created and called ${PARENTDIR}.zip"
 	echo
-	AGAIN	
 }
 
 function AGAIN() #Ask the user if to analyse another file
@@ -741,6 +740,7 @@ function AGAIN() #Ask the user if to analyse another file
 			echo "***********"
 			echo 
 			CHOICE
+			AGAIN
 		;;
 		
 		2)
@@ -762,7 +762,7 @@ function AGAIN() #Ask the user if to analyse another file
 ROOT
 APPS
 CHOICE
-
+AGAIN
 
 
 
