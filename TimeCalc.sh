@@ -1,4 +1,14 @@
 #!/bin/bash
+
+###############################################################
+# Domain Mapper 
+# Author: Michael Pritsert
+# GitHub: https://github.com/mishap2001
+# LinkedIn: https://www.linkedin.com/in/michael-pritsert-8168bb38a
+# License: MIT License
+###############################################################
+
+
 echo "
  ┌─────────────────────┐
  │   ⏱  TIME CALC      │
